@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shoaib Ahmed 
 - 👀 I’m interested in learning different kinds of languages different framework and Libraries 
 - 🌱 I’m currently learning ReactJS,Mango DB, Node JS, Express JS. in addition im also touching machine learning, Artificial intelligence and data science.
-- 💞️ I’m looking to collaborate on working related to mern development projects :(
+- 💞️ I’m looking to collaborate on working related to mern development projects, android, data strucutre and machine learning,AI,datascince :(
 - 📫 Reach me at shoaibahmedgtk5@gmail.com
 
 <!---
